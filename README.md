@@ -31,7 +31,7 @@ pip install scikit-learn
 
 Download all the files that accompany this project in a single folder.
 
-Download  from https://zenodo.org/records/10519652  the  dataset breastmnist_128.npz   
+Download  from https://zenodo.org/records/10519652  the  dataset breastmnist_128.npz  and put in the project folder. 
 
 Create and fill the structure that needs yolo26 , executing:
 
