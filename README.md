@@ -48,7 +48,8 @@ python Evaluate_BreastCancer_Yolo26.py
 
 The model displays a list of images whose classes were correctly predicted and those that were not,   resulting in an accuracy of  = 93.98496240601504% (hit predictions / (hit predictions + error predictions)).
 
-It also produces the confusion matrix and the classification report. Images with a prediction confidence level below 0.9, 23 images, are not considered and appear in the CancerImagesRejected.txt file.
+It also produces the confusion matrix and the classification report.
+
 
    precision    recall  f1-score   support
 
