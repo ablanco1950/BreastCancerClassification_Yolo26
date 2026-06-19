@@ -17,8 +17,6 @@ If not yet installed, this packages are:
 
 pip install numpy
 
-pip install pandas
-
 pip install keras
 
 pip install tensorflow
