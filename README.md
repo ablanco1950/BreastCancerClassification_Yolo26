@@ -27,6 +27,8 @@ pip install ultralytics
 
 pip install scikit-learn
 
+A requirements.txt file is attached.
+
 Download all the files that accompany this project in a single folder.
 
 Download  from https://zenodo.org/records/10519652  the  dataset breastmnist_128.npz  and put in the project folder. 
